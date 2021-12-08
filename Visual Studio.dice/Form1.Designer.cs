@@ -125,7 +125,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(79, 45);
             this.button5.TabIndex = 10;
-            this.button5.Text = "student picker";
+            this.button5.Text = "Student Picker";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
